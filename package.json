@@ -1,0 +1,29 @@
+{
+  "name": "wt_2_backend",
+  "version": "1.0.0",
+  "description": "This is the backend to WT.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alg0ritmus/WT_2_BACKEND.git"
+  },
+  "keywords": [
+    "Node.js",
+    "Express.js",
+    "PostgreSQL",
+    "JS"
+  ],
+  "author": "Pa3ik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alg0ritmus/WT_2_BACKEND/issues"
+  },
+  "homepage": "https://github.com/Alg0ritmus/WT_2_BACKEND#readme",
+  "dependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
