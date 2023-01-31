@@ -24,6 +24,10 @@
   },
   "homepage": "https://github.com/Alg0ritmus/WT_2_BACKEND#readme",
   "dependencies": {
-    "nodemon": "^2.0.15"
+    "dotenv": "^10.0.0",
+    "express":"^4.17.1",
+    "nodemon": "^2.0.15",
+    "pg": "^8.7.1",
+    "qs": "^6.10.2"
   }
 }
